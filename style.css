@@ -1,0 +1,49 @@
+*{
+    background-color: black;
+}
+h1{
+    color: white;
+}
+h2{
+    color: white;
+}
+h3{
+    color: white;
+}
+.redtext{
+    color: red;
+}
+.bluetext{
+    color: blue;
+}
+.yellowtext{
+    color: yellow;
+}
+.whitetext{
+    color: white;
+}
+img{
+    height: 200px;
+
+}
+.browntext{
+    color: brown;
+}
+.orangetext{
+    color: orange;
+}
+.violettext{
+    color: blueviolet;
+}
+.greentext{
+    color:green;
+}
+.pinktext{
+    color: pink;
+}
+.goldtext{
+    color: goldenrod;
+}
+.aquatext{
+    color: aqua;
+}
